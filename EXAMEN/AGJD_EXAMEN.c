@@ -7,7 +7,7 @@ x=0;
   	 
   
   	 
-        printf("Dame un numero y te digo si es oar o impar:\t");
+        printf("Dame un numero y te digo si es par o impar:\t");
 
 	scanf("%d",&i);
 
